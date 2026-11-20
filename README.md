@@ -7,12 +7,14 @@
 - [Usage](#Usage)
 - [License](#License)
 
-##Introduction
+## Introduction
 
-##Features
+![Project Logo](images/kfclogo.png)
 
-##Installation
+## Features
 
-##Usage
+## Installation
 
-##License
+## Usage
+
+## License
