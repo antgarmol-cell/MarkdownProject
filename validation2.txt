@@ -1,0 +1,134 @@
+commit bd664380a840f7838df444c349303d036ff7e230
+Merge: d34d8ef 65e08b0
+Author: antgarmol-cell <antgarmol@iespoblenou.org>
+Date:   Sun Nov 22 23:29:19 2026 +0100
+
+    Merge pull request #2 from antgarmol-cell/feature/1-contribution-guidelines
+    
+    Add contribution guidelines
+
+commit 65e08b054d7437532d22cdd36ef7a9940d139c9d
+Author: Antonio Garcia <tgarciamolinet@gmail.com>
+Date:   Sun Nov 22 22:39:10 2026 +0100
+
+    Add contribution guidelines
+
+ CONTRIBUTING.md | 21 +++++++++++++++++++++
+ 1 file changed, 21 insertions(+)
+
+commit d34d8ef386f90ea3b22ef5eea62299424e35d0f7
+Author: Antonio Garcia <tgarciamolinet@gmail.com>
+Date:   Sun Nov 22 21:58:58 2026 +0100
+
+    Add validation 1 file
+
+ validation1.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit bb37687851d1ba8d4a035ba6ca51abd9d159bc8f
+Author: Antonio Garcia <tgarciamolinet@gmail.com>
+Date:   Sun Nov 22 21:57:13 2026 +0100
+
+    Update Introduction of README.md
+
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 059fcdcb9419313e4628ce943bec5309f77ae9b1
+Author: Antonio Garcia <tgarciamolinet@gmail.com>
+Date:   Sun Nov 22 21:43:34 2026 +0100
+
+    Merge add-license branch into main
+
+ LICENSE.md | 21 +++++++++++++++++++++
+ 1 file changed, 21 insertions(+)
+
+commit 0bccbe186f471c422f44ca68eb9e3b0420600f2c
+Author: Antonio Garcia <tgarciamolinet@gmail.com>
+Date:   Sun Nov 22 21:40:22 2026 +0100
+
+    images
+
+ images/kfclogo.png | Bin 0 -> 66628 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit d7b26ccd1eb84093debc58ba815befc9e99ab436
+Author: Antonio Garcia <tgarciamolinet@gmail.com>
+Date:   Sun Nov 22 21:34:07 2026 +0100
+
+    Enhance README with formatting
+
+ README.md | 14 ++++++++++++++
+ 1 file changed, 14 insertions(+)
+
+commit 39fb765832b2fec2af880c71f79be6e98065ebb4
+Author: Antonio Garcia <tgarciamolinet@gmail.com>
+Date:   Sun Nov 22 18:32:49 2026 +0100
+
+    Add feature list table to README
+
+ README.md | 6 ++++++
+ 1 file changed, 6 insertions(+)
+
+commit 9a3b4b2fa69cdaa6f3742224e81a4e69d56d52c1
+Author: Antonio Garcia <tgarciamolinet@gmail.com>
+Date:   Fri Nov 20 14:25:50 2026 +0100
+
+    Add project logo to README
+
+ README.md | 12 +++++++-----
+ 1 file changed, 7 insertions(+), 5 deletions(-)
+
+commit ed508c758d3a4925f09b5562cfe7b84b080200a2
+Author: Antonio Garcia <tgarciamolinet@gmail.com>
+Date:   Fri Nov 20 14:08:28 2026 +0100
+
+    Add hyperlinks to README
+
+ README.md | 10 ++++++++++
+ 1 file changed, 10 insertions(+)
+
+commit 5e29e15b3bc41d9513a3c6f6fd2f2165f87fda7f
+Author: Antonio Garcia <tgarciamolinet@gmail.com>
+Date:   Fri Nov 20 14:02:58 2026 +0100
+
+    Add sections to README
+
+ README.md | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+commit fc337f1c902e253b96caba42183509dea901e998
+Author: Antonio Garcia <tgarciamolinet@gmail.com>
+Date:   Fri Nov 20 13:41:52 2026 +0100
+
+    Add Table of Contents to README
+
+ README.md | 10 +++++-----
+ 1 file changed, 5 insertions(+), 5 deletions(-)
+
+commit f615962ca715a9c0c8bbadb9feab0a39476082a9
+Author: Antonio Garcia <tgarciamolinet@gmail.com>
+Date:   Fri Nov 20 13:36:09 2026 +0100
+
+    Add Table of Contents to README
+
+ README.md | 6 ++++++
+ 1 file changed, 6 insertions(+)
+
+commit f3437db3484dba7a01a13960ba6e42a9bc776782
+Author: Antonio Garcia <tgarciamolinet@gmail.com>
+Date:   Fri Nov 20 13:18:54 2026 +0100
+
+    Add README with project introduction
+
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit ef91056d241513a0291226a9a4a8ab36b85cbb98
+Author: Antonio Garcia <tgarciamolinet@gmail.com>
+Date:   Fri Nov 20 12:56:50 2026 +0100
+
+    [200~Initial commit with
+
+ .gitignore | 1 +
+ 1 file changed, 1 insertion(+)
