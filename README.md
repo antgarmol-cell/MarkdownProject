@@ -13,6 +13,12 @@
 
 ## Features
 
+| Feature | Description | Status |
+|---------|-------------|--------|
+| Hacer un contador | es bastante intuitivo | completed |
+| hacer un apartado de calculadora| poner una calculadora en algun lado | in progres |
+| hacer un chat | un chat entre usuarios | in progres |
+
 ## Installation
 
 ## Usage
